@@ -1,0 +1,16 @@
+body{
+  border: black;
+  border-width: medium;
+  margin-right: 5%;
+  margin-left:5%;
+  margin-top: 2%;
+  padding:10px;
+}
+bt-2{
+  display: inline-block;
+  margin: 0 auto;
+}
+h1{
+  text-align: center;
+  border:thin;
+}
